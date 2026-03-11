@@ -125,3 +125,4 @@ set -o vi
 eval "$(fzf --bash)"
 
 win='/mnt/c/Users/nasyrov'
+wind='/mnt/c/Users/nasyrov/Downloads'
